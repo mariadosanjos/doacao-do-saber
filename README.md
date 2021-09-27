@@ -3,7 +3,7 @@ Concepção de um site onde usuários poderão obter livros de outras pessoas qu
 
 Passos para executar a aplicação:
 
-Baixar node.js e executar o comando: npm -i
+Baixar node.js e executar o comando: npm install
 
 Para subir o servidor de json de livros: json-server --watch -p 8080 db.json
 
